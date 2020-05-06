@@ -20,9 +20,9 @@ const bot = new TelegramBot(token, {
 });
 ```
 
-##Какие прокси тут, такой же писать в самом приложении Telegram
+## Какие прокси тут, такой же писать в самом приложении Telegram
 
-#Полный код будет такой 
+# Полный код будет такой 
 
 ```
 const TelegramBot = require('node-telegram-bot-api');
